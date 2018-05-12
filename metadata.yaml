@@ -1,0 +1,28 @@
+_repo: Poems-1916-1918_40344
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40344-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Young, Francis Brett
+    alias: Young, F. Brett (Francis Brett)
+    birthdate: 1884
+    deathdate: 1954
+    gutenberg_agent_id: '31627'
+    url: http://www.gutenberg.org/2009/agents/31627
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Brett_Young
+description: ''
+gutenberg_issued: '2012-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+title: Poems, 1916-1918
+url: http://www.gutenberg.org/ebooks/40344
